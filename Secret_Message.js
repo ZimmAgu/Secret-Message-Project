@@ -128,5 +128,5 @@ secretMessage.splice(6, 5, `know`);
 
 
 // Prints all of the elements as a single string
-console.log(secretMessage.join());
+console.log(secretMessage.join(` `));
 
